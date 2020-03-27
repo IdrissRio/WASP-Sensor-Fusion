@@ -1,5 +1,7 @@
 # Sensor Fusion
 Assignment for the WASP autonomous system: sensing and perception.
+
+Presentation avaiable in the Wiki page of this repository.
 ## Run it as a live script (Matlab)
 You can interact with the scripts using the live script (`main.mlx`) functionality of Matlab.
 
@@ -30,12 +32,9 @@ You can execute the scripts running `error_growth.m` (for task 1) and `main.m` (
  -  [ ] Rt2b.m
 
 
-## Useful inforamtion (Task 1):
+## Useful information (Task 1):
 
-Lund Longitude & Elevation above sea level:
 ![Live script 1](https://github.com/IdrissRio/WASP-Sensor-Fusion/blob/master/Images/git/locationLund.png)
 
-Stockholm Longitude & Elevation above sea level:
 ![Live script 2](https://github.com/IdrissRio/WASP-Sensor-Fusion/blob/master/Images/git/locationStockholm.png)
 
-## Presentation on the wiki page of this repository.
