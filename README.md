@@ -1,7 +1,8 @@
 # Sensor Fusion
 Assignment for the WASP autonomous system: sensing and perception.
 
-Presentation avaiable in the Wiki page of this repository.
+Presentation avaiable at this link (
+[Presentation](https://github.com/IdrissRio/WASP-Sensor-Fusion/blob/master/Images/git/IdrissRiouakSensorFusion.pdf)) or in the Wiki page of this repository.
 ## Run it as a live script (Matlab)
 You can interact with the scripts using the live script (`main.mlx`) functionality of Matlab.
 
